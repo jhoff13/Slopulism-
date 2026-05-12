@@ -1,6 +1,6 @@
 # Wheel of Slop
 
-Do you find yourself having Slop Paralysis when searching for lunch in Kendall square? Slopulism is here to help
+Do you find yourself having Slop Paralysis while searching for lunch in Kendall square? Spin the Wheel of Slop!
 
 Simply populate a config file with the slop shops of interest and their corresponding probabilities and feed to the script. Pre-populated slop configs are available including: *classic_kendall_slop*, *solab_favs*, and *jackpot*.
 
